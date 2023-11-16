@@ -1,0 +1,12 @@
+.btnfilter{
+    width: 80px !important;
+    display: block;
+    margin: 20px auto;
+}
+.bb{
+    width: 70% !important;
+    margin: 20px auto;
+    border: 2px solid lightcoral;
+    text-align: center;
+    font-weight: bold;
+}
